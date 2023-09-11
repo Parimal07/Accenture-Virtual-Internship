@@ -1,6 +1,6 @@
 # Accenture Virtual Internship
 
-# 📋 Project Overview
+## 📋 Project Overview
 The Social Buzz Engagement project aims to prepare the rapidly growing social media and content creation company, Social Buzz, for an Initial Public Offering (IPO). This three-month initiative involves auditing their data practices, offering IPO guidance, analyzing popular content categories, and optimizing their data infrastructure. The project's overarching goal is to facilitate Social Buzz's growth management and ensure a successful IPO while enhancing their data management and operational efficiency throughout the process.
 
 ## 🔑 Key Skills Learned 
@@ -28,8 +28,6 @@ The following tools were used to complete this certification: <br> <br>
 
 
 # 🏆 Certificates
-
- <p align="middle">[Accenture Virtual Internship.pdf](https://github.com/Parimal07/Accenture-Virtual-Internship/files/12575269/Accenture.Virtual.Internship.pdf)
-
-  <a href="https://www.coursera.org/account/accomplishments/certificate/6ASTVUY6Q9Q2"><img width="675" alt="Certificate" src="https://github.com/Parimal07/Accenture-Virtual-Internship/files/12575269/Accenture.Virtual.Internship.pdf" height="430"></a><br>
+<p>
+<img width="675" alt="Certificate" src="https://github.com/Parimal07/Accenture-Virtual-Internship/blob/main/Accenture%20Virtual%20Internship.pdf" height="430"><br>
 </p>
