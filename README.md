@@ -29,5 +29,5 @@ The following tools were used to complete this certification: <br> <br>
 
 # 🏆 Certificates
 <p align="middle">
-<img width="675" alt="Certificate" src="https://github.com/Parimal07/Accenture-Virtual-Internship/blob/main/Accenture%20Virtual%20Internship.png?raw=true" height="430"><br>
+  <img width="671" alt="Accenture Virtual Internship" src="https://github.com/Parimal07/Accenture-Virtual-Internship/assets/125177649/38f07086-17bc-4603-88e2-5b402232c3d4">
 </p>
